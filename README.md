@@ -6,7 +6,7 @@ Since GitHub does not support video playback, our video playlist links are liste
 
 Rocket test stand (1) FPV        https://youtu.be/J3VujNybwKQ  
 Rocket nozzle cad (1) FPV        https://youtu.be/azQanWLZHMY  
-Rocket motor cad (1) FPV         https://youtu.be/KQZq1CkoCXU
+Rocket motor cad (1) FPV         https://youtu.be/KQZq1CkoCXU  
 Rocket fuel casting (1) FPV      https://youtu.be/vk0cuA0VZ7E  
 Rocket fuel casting (2) FPV      https://youtu.be/IF8a8GFIySQ  
 Rocket fuel casting (3) FPV      https://youtu.be/otkLAd2Zz6w  
