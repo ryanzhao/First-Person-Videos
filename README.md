@@ -1,4 +1,6 @@
-ALL VIDEO IS AVAILABLE IN THIS GOOGLE DRIVE LINK https://drive.google.com/file/d/108SLsgBDaDzT3jN5Z4iSkXhOa-5mqOsn/view?usp=drive_link, https://drive.google.com/file/d/1CSZdC6zhpAz6-lhust7gAY8WOsNVjODE/view?usp=drive_link, https://drive.google.com/file/d/11xMMweXFvWIS4rAnuN-5bkELnUQBACi4/view?usp=drive_link, https://drive.google.com/file/d/17fLg7nOKY7OIHZY5wr4dQw-J6MXLY6qe/view?usp=drive_link  
+ALL VIDEO IS AVAILABLE IN THIS GOOGLE DRIVE LINK   https://drive.google.com/drive/folders/1LOlIpupssCylSfpjm2ydmqqPTR_AebcW?usp=sharing  
+
+  
 
 This GitHub repository documents the entire creation process of our project. It includes first-person videos that comprehensively showcase how we designed and built every aspect of the project ourselves. These videos serve as a valuable review tool for us. When a prototype fails to work or encounters issues, we can refer to the footage from the development process to pinpoint the root cause.
 
